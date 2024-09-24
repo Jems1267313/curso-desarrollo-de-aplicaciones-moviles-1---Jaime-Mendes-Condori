@@ -1,0 +1,119 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LoginApp
+build_property.ProjectDir = D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/Views/CategoriaEditPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.Views.CategoriaEditPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CategoriaEditPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CategoriaEditPage.xaml
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/Views/CategoriaListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.Views.CategoriaListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CategoriaListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CategoriaListPage.xaml
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/Views/CompraEditPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.Views.CompraEditPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CompraEditPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CompraEditPage.xaml
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/Views/CompraListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.Views.CompraListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CompraListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CompraListPage.xaml
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/Views/CompraProductoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.Views.CompraProductoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\CompraProductoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\CompraProductoPage.xaml
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/Views/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.Views.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\LoginPage.xaml
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/Views/MainMenuPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.Views.MainMenuPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MainMenuPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MainMenuPage.xaml
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/Views/ProductoEditPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.Views.ProductoEditPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProductoEditPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProductoEditPage.xaml
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/Views/ProductoListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.Views.ProductoListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ProductoListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ProductoListPage.xaml
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/Views/RegisterPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.Views.RegisterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\RegisterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\RegisterPage.xaml
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/Views/TiendaEditPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.Views.TiendaEditPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TiendaEditPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TiendaEditPage.xaml
+
+[D:/Visual studio proyectos/Nueva carpeta/Entregable_2/LoginApp/Views/TiendaListPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LoginApp.Views.TiendaListPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\TiendaListPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\TiendaListPage.xaml

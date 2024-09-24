@@ -1,0 +1,36 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginApp.Views.CompraListPage"
+             Title="Lista de Compras">
+    <StackLayout Padding="10">
+        <Button Text="Agregar Nueva Compra" Clicked="OnAddCompraClicked" />
+
+        <!-- ListView para Compras -->
+        <ListView x:Name="ComprasListView" ItemTapped="OnCompraTapped">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="{Binding TipoEntrega}" VerticalOptions="Center" />
+                            <Label Text="{Binding FechaCompra}" VerticalOptions="Center" />
+                        </StackLayout>
+                        <ViewCell.ContextActions>
+                            <MenuItem Text="Editar" Command="{Binding Source={RelativeSource AncestorType={x:Type ListView}}, Path=BindingContext.EditCompraCommand}" CommandParameter="{Binding .}" />
+                            <MenuItem Text="Eliminar" Clicked="OnDeleteCompraClicked" CommandParameter="{Binding .}" />
+                        </ViewCell.ContextActions>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <!-- ListView para Productos -->
+        <Label Text="Productos" Margin="0,20,0,0"/>
+        <ListView x:Name="ProductosListView" ItemTapped="OnProductTapped">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Nombre}" Detail="{Binding Precio}" />
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

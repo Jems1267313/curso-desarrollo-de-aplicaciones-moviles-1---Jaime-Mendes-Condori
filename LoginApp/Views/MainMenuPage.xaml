@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LoginApp.Views.MainMenuPage">
+    <VerticalStackLayout Padding="20">
+        <Label Text="Bienvenido al menú principal" FontSize="24" HorizontalOptions="Center" />
+
+        <Button Text="Ver Productos" 
+                HorizontalOptions="FillAndExpand" 
+                Clicked="OnProductosClicked" />
+
+        <Button Text="Ver Categorías" 
+                HorizontalOptions="FillAndExpand" 
+                Clicked="OnCategoriasClicked" />
+
+        <Button Text="Ver Compras" 
+                HorizontalOptions="FillAndExpand" 
+                Clicked="OnComprasClicked" />
+
+        <Button Text="Ver Tiendas" 
+                HorizontalOptions="FillAndExpand" 
+                Clicked="OnTiendasClicked" />
+    </VerticalStackLayout>
+</ContentPage>

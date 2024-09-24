@@ -1,0 +1,369 @@
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.csproj.AssemblyReference.cache
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.AssemblyInfoInputs.cache
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.AssemblyInfo.cs
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.csproj.CoreCompileInputs.cache
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\LoginApp.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.pdb
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.exe
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.deps.json
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.runtimeconfig.json
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.pdb
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IO.RecyclableMemoryStream.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.csproj.Up2Date
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.genruntimeconfig.cache
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\LoginApp.dll
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+E:\VisualStudioProyectos\LoginApp\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.exe
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.deps.json
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.runtimeconfig.json
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.pdb
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.IO.RecyclableMemoryStream.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.csproj.AssemblyReference.cache
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.AssemblyInfoInputs.cache
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.AssemblyInfo.cs
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.csproj.CoreCompileInputs.cache
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.sourcelink.json
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.csproj.Up2Date
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\LoginApp.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.pdb
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\LoginApp.genruntimeconfig.cache
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\LoginApp.dll
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+D:\Visual studio proyectos\Nueva carpeta\Entregable_2\LoginApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt

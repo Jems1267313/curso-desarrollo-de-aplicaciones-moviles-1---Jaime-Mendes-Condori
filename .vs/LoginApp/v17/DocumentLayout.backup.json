@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual studio proyectos\\Nueva carpeta\\Entregable_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5C424-8D19-45F3-8B9C-F2B93A5627A4}|LoginApp\\LoginApp.csproj|d:\\visual studio proyectos\\nueva carpeta\\entregable_2\\loginapp\\services\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5C424-8D19-45F3-8B9C-F2B93A5627A4}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\services\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5C424-8D19-45F3-8B9C-F2B93A5627A4}|LoginApp\\LoginApp.csproj|d:\\visual studio proyectos\\nueva carpeta\\entregable_2\\loginapp\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5C424-8D19-45F3-8B9C-F2B93A5627A4}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\controllers\\tiendacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5C424-8D19-45F3-8B9C-F2B93A5627A4}|LoginApp\\LoginApp.csproj|d:\\visual studio proyectos\\nueva carpeta\\entregable_2\\loginapp\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5C424-8D19-45F3-8B9C-F2B93A5627A4}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\controllers\\compracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5C424-8D19-45F3-8B9C-F2B93A5627A4}|LoginApp\\LoginApp.csproj|d:\\visual studio proyectos\\nueva carpeta\\entregable_2\\loginapp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5C424-8D19-45F3-8B9C-F2B93A5627A4}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77C5C424-8D19-45F3-8B9C-F2B93A5627A4}|LoginApp\\LoginApp.csproj|d:\\visual studio proyectos\\nueva carpeta\\entregable_2\\loginapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77C5C424-8D19-45F3-8B9C-F2B93A5627A4}|LoginApp\\LoginApp.csproj|solutionrelative:loginapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "D:\\Visual studio proyectos\\Nueva carpeta\\Entregable_2\\LoginApp\\Services\\DataBase.cs",
+              "RelativeDocumentMoniker": "LoginApp\\Services\\DataBase.cs",
+              "ToolTip": "D:\\Visual studio proyectos\\Nueva carpeta\\Entregable_2\\LoginApp\\Services\\DataBase.cs",
+              "RelativeToolTip": "LoginApp\\Services\\DataBase.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:47:10.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TiendaController.cs",
+              "DocumentMoniker": "D:\\Visual studio proyectos\\Nueva carpeta\\Entregable_2\\LoginApp\\Controllers\\TiendaController.cs",
+              "RelativeDocumentMoniker": "LoginApp\\Controllers\\TiendaController.cs",
+              "ToolTip": "D:\\Visual studio proyectos\\Nueva carpeta\\Entregable_2\\LoginApp\\Controllers\\TiendaController.cs",
+              "RelativeToolTip": "LoginApp\\Controllers\\TiendaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:46:22.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompraController.cs",
+              "DocumentMoniker": "D:\\Visual studio proyectos\\Nueva carpeta\\Entregable_2\\LoginApp\\Controllers\\CompraController.cs",
+              "RelativeDocumentMoniker": "LoginApp\\Controllers\\CompraController.cs",
+              "ToolTip": "D:\\Visual studio proyectos\\Nueva carpeta\\Entregable_2\\LoginApp\\Controllers\\CompraController.cs",
+              "RelativeToolTip": "LoginApp\\Controllers\\CompraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:46:20.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\Visual studio proyectos\\Nueva carpeta\\Entregable_2\\LoginApp\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "LoginApp\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\Visual studio proyectos\\Nueva carpeta\\Entregable_2\\LoginApp\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "LoginApp\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:45:08.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Visual studio proyectos\\Nueva carpeta\\Entregable_2\\LoginApp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "LoginApp\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Visual studio proyectos\\Nueva carpeta\\Entregable_2\\LoginApp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "LoginApp\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T22:42:38.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
